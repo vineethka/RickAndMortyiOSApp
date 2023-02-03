@@ -13,6 +13,7 @@ final class RMCharacterViewController: UIViewController {
         super.viewDidLoad()
         title = "Characters"
         // Do any additional setup after loading the view.
+        
     }
     
 
